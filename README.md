@@ -1,8 +1,8 @@
-# SCRUM
+![scrum](https://user-images.githubusercontent.com/68760595/164306020-120e8664-cb5b-459a-80a3-99e13b057b52.png)
 
-Es una metodología Agile para desarrollar proyectos en la que se aplican de manera regular un conjunto de buenas prácticas para trabajar en equipo y obtener en el menor tiempo el mejor resultado posible de un proyecto, aceptando en todo momento cualquier necesidad o modificación que pueda surgir
+```Es una metodología Agile para desarrollar proyectos en la que se aplican de manera regular un conjunto de buenas prácticas para trabajar en equipo y obtener en el menor tiempo el mejor resultado posible de un proyecto, aceptando en todo momento cualquier necesidad o modificación que pueda surgir.```
 
-## Características:
+## Características
 
 - Entornos complejos
 - Resultados rápidos
